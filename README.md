@@ -2,7 +2,7 @@
 
 # my-first-repo
 
-이 저장소는 git 연습용 저장소 입니다.
+이 저장소는 bluephysi 의 git 연습용 저장소 입니다.
 
 ## Index
 
@@ -30,7 +30,7 @@ $ python main.py
 
 - 인사를 하다.
 - 덧셈을 하다.
-
+- 곱셈을 하다.
 ### Run Tests
 
 ```shell
